@@ -1,0 +1,16 @@
+[
+  {
+    "Codigo": 1,
+    "Tipo_Analise": "HIV",
+    "Cliente": "Hugo",
+    "Data": "10/04/2002",
+    "Resultado": "Positivo"
+  },
+  {
+    "Codigo": 2,
+    "Cliente": "Jeovani",
+    "Tipo_Analise": "Kk",
+    "Data": "12/01/2024",
+    "Resultado": "Negativo"
+  }
+]

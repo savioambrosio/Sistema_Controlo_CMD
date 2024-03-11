@@ -1,0 +1,27 @@
+[
+  {
+    "Codigo": 5,
+    "Nome": "hernane",
+    "Endereco": "capolo"
+  },
+  {
+    "Codigo": 6,
+    "Nome": "savio",
+    "Endereco": 21
+  },
+  {
+    "Codigo": 8,
+    "Nome": "Lucas",
+    "Endereco": "Cacuaco"
+  },
+  {
+    "Codigo": 9,
+    "Nome": "Kabila",
+    "Endereco": "Cacuaco"
+  },
+  {
+    "Codigo": 10,
+    "Nome": "Jose",
+    "Endereco": ""
+  }
+]

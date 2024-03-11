@@ -1,0 +1,32 @@
+[
+  {
+    "Codigo": 1,
+    "Nome": "hernane",
+    "Departamento": "saude",
+    "telefone": 945512220
+  },
+  {
+    "Codigo": 2,
+    "Nome": "Jose",
+    "Departamento": "Saude",
+    "telefone": 933497174
+  },
+  {
+    "Codigo": 3,
+    "Nome": "Savio",
+    "Departamento": "Informatica",
+    "telefone": "933497174"
+  },
+  {
+    "Codigo": 4,
+    "Nome": "Kl",
+    "Departamento": "Informatica",
+    "telefone": "945412220"
+  },
+  {
+    "Codigo": 5,
+    "Nome": "Hugo",
+    "Departamento": "Engenharia",
+    "telefone": "9875623"
+  }
+]

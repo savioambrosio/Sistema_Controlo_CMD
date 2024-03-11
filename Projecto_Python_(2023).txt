@@ -1,0 +1,33 @@
+Tema: Gestao de laboratorios de monotorizacao e investigaco ambiental em construcao:
+
+#Tabelas Basicas#
+=================
+.Tipo de Clientes
+*alterar, inserir, eliminar, imprimir filtro
+
+.Tipo de Analises
+*eliminar, enserir, filtrar (nome, preco), alterar, imprimir filtro
+
+.Analises
+*eliminar, enserir, alterar, filtrar (tipo de analises, nome, preco), imprimir filtro
+
+
+#Entidades#
+===========
+.Clientes
+*eliminar, enserir, alterar, filtrar (nome, departamento), imprimir filtro
+
+.Funcionarios
+*eliminar, enserir, alterar, filtrar (nome, departamento), imprimir filtro
+
+.Utilizadores
+*eliminar, enserir, alterar, filtrar (nome, departamento), imprimir filtro
+
+
+#Analises#
+==========
+.Pedidos de Analise
+*eliminar, enserir, alterar, filtrar (tipo de analises, cliente, tipo cliente, data), imprimir filtro
+
+.Resultado de Analise
+*eliminar, enserir, alterar, filtrar  (tipo de analises, cliente, tipo cliente, data)imprimir filtro, relatorios(pdf, email, email+pdf)

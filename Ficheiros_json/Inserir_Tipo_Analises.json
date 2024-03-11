@@ -1,0 +1,17 @@
+[
+    {
+        "Codigo": 1,
+        "Nome": "Febre",
+        "Preco": 200
+    },
+    {
+        "Codigo": 2,
+        "Nome": "Covid",
+        "Preco": 21
+    },
+    {
+        "Codigo": 3,
+        "Nome": "HIV",
+        "Preco": 4000
+    }
+]

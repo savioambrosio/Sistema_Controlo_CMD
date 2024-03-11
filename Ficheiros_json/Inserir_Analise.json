@@ -1,0 +1,14 @@
+[
+  {
+    "Codigo": 1,
+    "Nome": "HIV",
+    "Tipo_analise": "Positivo",
+    "Preco": "2399"
+  },
+  {
+    "Codigo": 2,
+    "Nome": "JO",
+    "Tipo_analise": "Negativo",
+    "Preco": "244"
+  }
+]
